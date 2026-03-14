@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator - LinkedIn Tutorial - EJackson"
 author: "Ethan Jackson"
 description: "generates a feed for apodcast from a YAML file"
 runs: 
