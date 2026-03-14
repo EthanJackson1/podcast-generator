@@ -1,5 +1,5 @@
 name: "Podcast Generator"
-author: "Ray Villalobos"
+author: "Ethan Jackson"
 description: "generates a feed for apodcast from a YAML file"
 runs: 
   using: "docker"
